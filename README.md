@@ -36,7 +36,7 @@ I'm João Alves (online as **Harkadya**), a passionate Web & Mobile Developer an
 
 ## 💻 Featured Work
 
-- 🔗 [Portfolio](https://harkadya.com/#work) – Explore my apps, websites, and creative projects  
+- 🔗 [Portfolio](https://harkadya.com/work) – Explore my apps, websites, and creative projects  
 - 📝 [Blog](https://harkadya.com/blog) – Thoughts on web development, Android, and tech trends
 
 ---
