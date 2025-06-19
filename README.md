@@ -10,13 +10,14 @@
   <a href="https://www.linkedin.com/in/harkadya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn Badge" height="25" />
   </a>
-  <a href="https://x.com/harkadya" target="_blank">
+  <a href="https://x.com/harkadya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" alt="Twitter Badge" height="25" />
   </a>
-  <a href="https://www.instagram.com/harkadya" target="_blank">
+  <a href="https://www.instagram.com/harkadya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" alt="Instagram Badge" height="25" />
   </a>
 </div>
+
 
 ---
 
